@@ -18,12 +18,13 @@ button {
     --yellow: #fcbf49;
     --green: #38a3a5;
     --red: #d62828;
-    --blue: #00b4d8;
+    --blue: #0077cb;
     --dark-blue: #003566;
-    --purple: #77AF9C;
+    --purple: #86a49d;
     --purple-secondary: #90be6d;
     --title-primary-color: rgb(231, 226, 226);
 }
+
 
 body *{
     font-family: 'poppins', sans-serif;
